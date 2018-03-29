@@ -1,8 +1,12 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+
 .collection-item {
     margin-top: 7px;
 }
 
 .collection-item:hover{
-    background-color: rgb(0, 0, 0);
-    color: red;
+    background-color: rgb(48, 48, 48);
+    color: rgb(0, 255, 200);
 }
